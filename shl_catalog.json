@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "link": "https://www.shl.com",
+    "description": "Personality assessment for leadership and workplace behavior",
+    "keys": [
+      "leadership",
+      "personality",
+      "behavior",
+      "manager"
+    ],
+    "test_type": "Personality"
+  },
+
+  {
+    "name": "Verify Numerical Ability",
+    "link": "https://www.shl.com",
+    "description": "Numerical reasoning assessment",
+    "keys": [
+      "numerical",
+      "math",
+      "analysis"
+    ],
+    "test_type": "Aptitude"
+  }
+]
